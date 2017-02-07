@@ -1,0 +1,2 @@
+OFPST_GROUP_DESC reply (OF1.3) (xid=0x2):
+ group_id=1,type=ff,bucket=weight:0,watch_port:3,actions=output:3,bucket=weight:0,watch_port:4,actions=output:4
